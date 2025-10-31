@@ -2,7 +2,7 @@ import os
 import mlflow
 import pandas as pd
 from sklearn import metrics
-#demo
+#demo1
 
 
 MLFLOW_TRACKING_URI = "http://34.9.239.48:8100/" #  MLflow URI
