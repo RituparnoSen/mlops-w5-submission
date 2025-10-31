@@ -5,7 +5,7 @@ from sklearn import metrics
 #demo
 
 
-MLFLOW_TRACKING_URI = "http://http://34.9.239.48:8100/" #  MLflow URI
+MLFLOW_TRACKING_URI = "http://34.9.239.48:8100/" #  MLflow URI
 MODEL_NAME_REGISTRY = "iris-classifier-dt"
 MODEL_STAGE = "Production"
 MIN_ACCEPTABLE_ACCURACY = 0.90 # Set  minimum quality threshold
