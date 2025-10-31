@@ -15,7 +15,7 @@ jobs:
     # Define environment variables used by the authentication step
     env:
       # This is the variable used by the authentication action to set up the GCS access
-      GCP_PROJECT_ID: "fresh-bloom-472914-s8" 
+      GCP_PROJECT_ID: "elemental-vent-474216-f5" 
 
     steps:
       # 1. Checkout repository
